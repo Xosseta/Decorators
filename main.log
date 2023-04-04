@@ -1,0 +1,5 @@
+[2023-04-04 20:49:46.024620] - func_name: hello_world, args: (), kwargs: {}, result: Hello World
+[2023-04-04 20:49:46.024620] - func_name: summator, args: (2, 2), kwargs: {}, result: 4
+[2023-04-04 20:49:46.024620] - func_name: div, args: (6, 2), kwargs: {}, result: 3.0
+[2023-04-04 20:49:46.025620] - func_name: summator, args: (4.3,), kwargs: {'b': 2.2}, result: 6.5
+[2023-04-04 20:49:46.025620] - func_name: summator, args: (), kwargs: {'a': 0, 'b': 0}, result: 0
